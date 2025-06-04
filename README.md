@@ -23,15 +23,15 @@ UserVerse isn't just another user management app - it's a thoughtfully designed 
 <table>
   <tr>
     <td>
-      <img src="https://res.cloudinary.com/deuhpyrku/image/upload/v1749032473/Screenshot_20250604-154802_gf6lqn.png" alt="User List Screen" width="220"/><br>
+      <img src="https://res.cloudinary.com/deuhpyrku/image/upload/v1749032473/Screenshot_20250604-154802_gf6lqn.png" alt="User List Screen" width="300"/><br>
       <em>Browse users with infinite scrolling and real-time search</em>
     </td>
     <td>
-      <img src="https://res.cloudinary.com/deuhpyrku/image/upload/v1749032473/Screenshot_20250604-154829_zjbhqg.png" alt="User Profile" width="220"/><br>
+      <img src="https://res.cloudinary.com/deuhpyrku/image/upload/v1749032473/Screenshot_20250604-154829_zjbhqg.png" alt="User Profile" width="300"/><br>
       <em>View detailed user information and their posts</em>
     </td>
     <td>
-      <img src="https://res.cloudinary.com/deuhpyrku/image/upload/v1749032473/Screenshot_20250604-154836_bvd26w.png" alt="Create Post" width="220"/><br>
+      <img src="https://res.cloudinary.com/deuhpyrku/image/upload/v1749032473/Screenshot_20250604-154836_bvd26w.png" alt="Create Post" width="320"/><br>
       <em>Create and manage posts for users</em>
     </td>
   </tr>
