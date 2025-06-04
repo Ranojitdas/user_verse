@@ -20,19 +20,30 @@ UserVerse isn't just another user management app - it's a thoughtfully designed 
 
 ### Screenshots
 
-![User List Screen](https://res.cloudinary.com/deuhpyrku/image/upload/v1749032473/Screenshot_20250604-154802_gf6lqn.png)
-*Browse users with infinite scrolling and real-time search*
-
-![User Profile](https://res.cloudinary.com/deuhpyrku/image/upload/v1749032473/Screenshot_20250604-154829_zjbhqg.png)
-*View detailed user information and their posts*
-
-![Create Post](https://res.cloudinary.com/deuhpyrku/image/upload/v1749032473/Screenshot_20250604-154836_bvd26w.png)
-*Create and manage posts for users*
+<table>
+  <tr>
+    <td>
+      <img src="https://res.cloudinary.com/deuhpyrku/image/upload/v1749032473/Screenshot_20250604-154802_gf6lqn.png" alt="User List Screen" width="220"/><br>
+      <em>Browse users with infinite scrolling and real-time search</em>
+    </td>
+    <td>
+      <img src="https://res.cloudinary.com/deuhpyrku/image/upload/v1749032473/Screenshot_20250604-154829_zjbhqg.png" alt="User Profile" width="220"/><br>
+      <em>View detailed user information and their posts</em>
+    </td>
+    <td>
+      <img src="https://res.cloudinary.com/deuhpyrku/image/upload/v1749032473/Screenshot_20250604-154836_bvd26w.png" alt="Create Post" width="220"/><br>
+      <em>Create and manage posts for users</em>
+    </td>
+  </tr>
+</table>
 
 ### Demo Video
 
-[![UserVerse Demo](https://res.cloudinary.com/deuhpyrku/image/upload/v1749032473/Screenshot_20250604-154813_mkeigc.png)](https://res.cloudinary.com/deuhpyrku/video/upload/v1749032518/screen-20250604-154930_ndzqps.mp4)
-*Watch UserVerse in action - Click to play*
+<a href="https://res.cloudinary.com/deuhpyrku/video/upload/v1749032518/screen-20250604-154930_ndzqps.mp4" target="_blank">
+  <img src="https://res.cloudinary.com/deuhpyrku/image/upload/v1749032473/Screenshot_20250604-154813_mkeigc.png" alt="UserVerse Demo" width="320"/>
+</a>
+<br>
+<em>Watch UserVerse in action - Click to play</em>
 
 ## 🏗️ How It's Built
 
